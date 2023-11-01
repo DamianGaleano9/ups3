@@ -1,0 +1,19 @@
+{
+  "name": "ups3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamianGaleano9"
+  },
+  "author": "Damian Galeano <dj.damian.b@hotmail.com> (https://www.npmjs.com/~damiangaleano)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
